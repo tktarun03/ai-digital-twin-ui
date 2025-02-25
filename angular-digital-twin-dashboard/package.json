@@ -1,0 +1,11 @@
+{
+    "name": "angular-digital-twin-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-digital-twin-ui": "file:../stencil-digital-twin-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
